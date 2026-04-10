@@ -50,7 +50,8 @@ The first version will focus on:
 - `reports/` for generated summaries and outputs
 
 ## Current Status
-Week 1 setup and repository scaffolding.
+Step 1 setup and repository scaffolding. 
+Step 2 add FDA source inventory and schema planning artifacts. 
 
 ## Author
 Marzieh Eini
