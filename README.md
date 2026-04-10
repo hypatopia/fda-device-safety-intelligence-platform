@@ -51,6 +51,7 @@ The first version will focus on:
 
 ## Current Status
 Step 1 setup and repository scaffolding. 
+
 Step 2 add FDA source inventory and schema planning artifacts. 
 
 ## Author
