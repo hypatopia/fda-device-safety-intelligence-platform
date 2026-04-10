@@ -53,4 +53,4 @@ The first version will focus on:
 Week 1 setup and repository scaffolding.
 
 ## Author
-Marzieh Eini Keleshteri
+Marzieh Eini

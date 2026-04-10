@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fda-device-safety-intelligence-platform"
+version = "0.1.0"
+description = "Analytics and reporting copilot built on FDA public safety data"
+authors = [
+  { name = "Marzieh Eini Keleshteri" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = [
+  "."
+]
+testpaths = [
+  "tests"
+]
